@@ -7,3 +7,5 @@ In this Repo we are learning the basics of Git & GitHub, how it works, etc.
 
 # What is Git?
 Git is a free, open-source version control software. It was created by Linus Torvalds in 2005. This tool is a version control system that was initially developed to work with several developers on the Linux kernel.
+
+<img align="center" alt="GIF" src="Mukesh.png" width="100%" height="300" />
