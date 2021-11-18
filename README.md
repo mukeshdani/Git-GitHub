@@ -104,3 +104,25 @@ pull means transferring the changes on the central repository to your local repo
 ### git pull origin master
 Always first pull contents from the central repo before pushing so that you are updated with other team members’ work.
 Here, master means the master branch (in Git).
+
+**Now time To add a file to central Repository:**
+First, your file is in your working directory, Move it to the staging area by typing:
+
+### git add -A (for all files and folders)
+ To add all files only in the current directory
+### git add .
+### git status: 
+    
+
+### git commit -a -m "message for commit"
+
+### git push origin master -> pushes your files to 
+github master branch
+### git push origin anyOtherBranch -> pushes any 
+   other branch to github.
+
+### git log ; to see all your commits
+### git checkout commitObject(first 8 bits) file.txt-> 
+
+HEAD -> pointer to our latest commit.
+
