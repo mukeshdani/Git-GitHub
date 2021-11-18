@@ -112,9 +112,11 @@ First, your file is in your working directory, Move it to the staging area by ty
  To add all files only in the current directory
 ### git add .
 ### git status 
+The first thing you need to do is to check the files you have modified.
     
 
 ### git commit -a -m "message for commit"
+Now that we have added the files of our choice, we need to write a message to explain what we have done. This message may be useful later if we want to check the change history.
 
 ### git push origin master -> pushes your files to 
 github master branch
