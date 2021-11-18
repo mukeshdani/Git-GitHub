@@ -121,8 +121,8 @@ github master branch
 ### git push origin anyOtherBranch -> pushes any 
    other branch to github.
 
-### git log ; to see all your commits
-### git checkout commitObject(first 8 bits) file.txt-> 
+### git log ;
+ to see all your commits
 
 HEAD -> pointer to our latest commit.
 
