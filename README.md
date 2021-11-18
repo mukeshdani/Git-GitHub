@@ -75,3 +75,23 @@ There are three popular Git hosting services: **GitHub** (owned by **Microsoft**
 
     git config --global user.name "MUKESH DANI"
     git config --global user.email "mukeshdani00@gmail.com"
+
+
+
+## **Working with GitHub projects**
+We’ll work with GitHub projects in two ways.   
+
+**1 👉** : *Work on your project locally then create the repository on GitHub and push it to remote.*
+
+**Initialize directory :**
+
+### git init 
+initializes your directory to work with git and
+makes a local repository. .git folder is made
+
+*OR*
+
+### git clone http_url 
+This is done if we have an existing git repository.
+
+
