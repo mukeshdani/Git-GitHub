@@ -95,3 +95,12 @@ makes a local repository. .git folder is made
 This is done if we have an existing git repository.
 
 
+**Connecting to repository :**
+
+### git remote add origin http_url/ssh_url 
+connect to central repo to push/pull
+pull means transferring the changes on the central repository to your local repository. push is the vice versa of pull.
+
+### git pull origin master
+Always first pull contents from the central repo before pushing so that you are updated with other team members’ work.
+Here, master means the master branch (in Git).
