@@ -111,6 +111,7 @@ First, your file is in your working directory, Move it to the staging area by ty
 ### git add -A (for all files and folders)
  To add all files only in the current directory
 ### git add .
+To add all files only in the current directory
 ### git status 
 The first thing you need to do is to check the files you have modified.
     
